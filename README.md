@@ -44,7 +44,7 @@ I’m a dedicated and experienced **Bioinformatician** with a strong focus on ex
 
 ### 🎈 A Bit More About Me
 
-Originally from **Brazil 🇧🇷**, now based in **Copenhagen 🇩🇰**. I love biking, exploring nature, and visualizing complex data beautifully. I care about clear communication, clean code, and community building in science.
+Originally from **Brazil 🇧🇷**, now based in **Copenhagen 🇩🇰**. I love biking, exploring nature, and visualising complex data beautifully. I care about clear communication, clean code, and community building in science.
 
 ---
 
@@ -52,7 +52,7 @@ Originally from **Brazil 🇧🇷**, now based in **Copenhagen 🇩🇰**. I lov
 
 - Theme: **Professional & Minimalist**  
 - Colors: **Muted blues and greens**  
-- Favorite emojis: 🧬 🔬 📊  
+- Favourite emojis: 🧬 🔬 😱 😄 😂 🍽️  
 - Motto: *“Science should be reproducible, collaborative, and a little bit beautiful.”*
 
 ---
